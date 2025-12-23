@@ -1,4 +1,4 @@
-name: OpenAPI Minimal CI 1
+name: OpenAPI Minimal CI
 on:
   pull_request:
     paths: ['openapi/**/*.yaml']
